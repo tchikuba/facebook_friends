@@ -1,3 +1,4 @@
+# ruby 2.3.1p112で動作確認
 require 'bundler'
 Bundler.require
 require 'capybara/poltergeist'
